@@ -1,0 +1,4 @@
+Hello, Here is some text to add to this new page. 
+I am not really sure what to type.
+I am sure I could have used some Lorem ipsum but this is basically the same thing. 
+I hope you enjoy this gibberish.
