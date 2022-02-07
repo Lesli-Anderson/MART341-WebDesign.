@@ -28,3 +28,9 @@ I was struggling to clone my repository. I find myself getting mixed up in the c
 [My Responses](./responses.txt)
 
 [My Screenshot](./images/AndersonScreenshotEditor.png)
+
+**Tell me three things you have learned in this class so far.**
+
+I have learned the importance of file organization in terms of creating clear paths for web development.
+Also, I now have a much better understanding of what the Internet is, how it functions, and the difference from the World Wide Web.
+Last but not least that markup language is written in Markdown.
