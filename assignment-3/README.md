@@ -1,4 +1,7 @@
-Week 3
+Week 3 - Lesli Anderson, author
+Working through week 3 content for MART 341.
+
+Thoughts from this week.
 Questions regarding your understanding of the Topic’s materials.
 //I enjoyed the videos this week. I felt they broke the conent up into chewable parts and brought it back together at the end.
 
