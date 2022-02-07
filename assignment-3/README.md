@@ -24,3 +24,7 @@ I have a better understanding of the internet now. Some of the content was revie
 **What problems did you have? How did you solve them?**
 
 I was struggling to clone my repository. I find myself getting mixed up in the content between MART 341 and MART 441. I thought I had already cloned 341 and I had not. I went back to my 441 to remeber the steps since I had already created my GitHub account and linked my Visual Studio Code. All is good now. Just had to slow down and retrace my steps a bit.
+
+[My Responses](./responses.txt)
+
+[My Screenshot](./images/AndersonScreenshotEditor.png)
