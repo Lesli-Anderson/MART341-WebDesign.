@@ -1,0 +1,9 @@
+UPDATED**
+What is a directory, and what is its relationship to files?
+A directory is a storage location that creates structure for your files. This is where you can catalog and organize file paths.
+
+How are VCS useful?
+Version Control Systems are useful in that they allow collaboration among developers without fear of writing over top of eachother's code.
+
+Do you have a favorite artistic medium? Why is it your favorite?
+My Favorite artistic medium is paint. I love to mix colors to create my own unique look. For me paint allows my mind creative freedom to not be perfect. It allows my creative juices to flow more than anyother medium. 
