@@ -5,3 +5,5 @@ Semantic Markup conveys the type of information of each element in your document
 Structural Markup gives information about the structure of the site. These would be like headings, paragraphs, and lists.
 
 The two seperate the content from the presentation.
+
+Add Screenshot
