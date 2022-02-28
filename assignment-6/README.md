@@ -7,3 +7,4 @@ Structural Markup gives information about the structure of the site. These would
 The two seperate the content from the presentation.
 
 Add Screenshot
+![My Screenshot](./images/Anderson-screenshot-2-27.png)
