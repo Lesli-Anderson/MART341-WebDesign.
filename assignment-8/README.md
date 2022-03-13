@@ -6,3 +6,6 @@ I would say the advantages to using third-party is that so much of the styling i
 
 Optional: What challenges did you face this week with this assignment? How did you overcome them?
 I did not have SoundCloud but I did have Spotify so I had to do a little research on how to embed from Spotify.
+
+Add Screenshot
+![My Screenshot](./images/Anderson-wk8.png)
