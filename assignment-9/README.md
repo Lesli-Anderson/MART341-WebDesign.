@@ -7,3 +7,6 @@ After we come back from spring break we will start to dive into CSS and expand o
 I am really looking forward to CSS. When I originally learn how to build website years ago we never got into CSS much. For me as a designer it kills me when things look basic. HTML provides the structure but very little esthetics. I look forward to making our sites more pleasing to the eye.
 
 This is a site I would like to build on. The content on the site is very basic at this point and I hope to really develop the site.
+
+Add Screenshot
+![My Screenshot](./images/AndersonScreenshotWk9.png)
