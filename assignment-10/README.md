@@ -5,4 +5,4 @@ Discuss your color palette. How did you choose your colors?
 Optional: discuss any challenges you faced this week, and how you overcame them.
 
 Add Screenshot
-![My Screenshot](./images/AndersonScreenshotWk9.png)
+![My Screenshot](./images/Anderson10Screenshot.png)
