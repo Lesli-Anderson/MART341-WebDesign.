@@ -1,55 +1,28 @@
-body {
-    font-family: arial;
-    background-color: rgb(185, 179, 175);
-  }
-  h1 {
-    color: rgb(245, 79, 209);
-    text-align: left;
-  }
-  h2 {
-    color: rgb(66, 16, 114);
-  }
-  body,
-  html {
-    height: 100%;
-  }
-  
-  /* The hero image */
-  .hero-image {
-    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(
-        rgba(0, 255, 255, 0.5),
-        rgba(39, 2, 61, 0.5)
-      ),
-      url("../HW1/Images/brian-mcgowan-DsYv1KJHrlE-unsplash.jpg");
-  
-    /* Set a specific height */
-    height: 50%;
-  
-    /* Position and center the image to scale nicely on all screens */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
-  
-  /* Place text in the middle of the image */
-  .hero-text {
-    text-align: left;
-    position: absolute;
-    top: 50%;
-    left: 75%;
-    transform: translate(-50%, -50%);
+nav {
+    background-color: rgb(130, 100, 237);
     color: white;
-  }
-  img {
-    border-radius: 8px;
-  }
-  image {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 20px;
-    max-width: 100%;
+    padding: 1%;
+    text-align: right;
+    border: 5px white solid;
     height: auto;
   }
-  
+
+  a {
+    color: white;
+    font-size: 25px;
+  }
+
+  div {
+    background-color: antiquewhite;
+    border: 10px black solid;
+    width: 700px;
+    margin: auto;
+    padding: 30px;
+  }
+  h1 {
+    text-align: center;
+  }
+  body {
+    background-color: rgb(64, 200, 224);
+    font-family: Garamond;
+  }
