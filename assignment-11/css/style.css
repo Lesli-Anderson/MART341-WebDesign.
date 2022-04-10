@@ -39,11 +39,11 @@ h1{
     color: #333;
     font-size: 20px;
     line-height: 26px;
-    max-width: 640px;
+    max-width: 570px;
     font-family: Yellowtail;
 }
 
-.content-paragraph:first-line{
+.content-paragraph::first-line{
     font-size: 30px;
     font-family: Barlow;
     line-height: 40px;
