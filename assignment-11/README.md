@@ -10,3 +10,6 @@ System fonts are those already installed on your system/computer.
 Web fonts are those solely for web use and do not have to be available on a user's device. Menlo and Ubuntu are web fonts.
 
 Web-safe fonts are those fonts that can be counted on being available on all systems (Mac and Windows).
+
+Add Screenshot
+![My Screenshot](./images/AndersonScreenshot11.png)
