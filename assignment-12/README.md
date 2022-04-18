@@ -7,4 +7,4 @@ Optional: how did this week's assignment go? What challenges did you face, and h
 I loved this week's assignment. I am excited about the current content. I enjoy making things look aesthetically pleasing.
 
 Add Screenshot
-![My Screenshot](./images/AndersonScreenshot11.png)
+![My Screenshot](./images/AndersonScreenshot12.png.png)
