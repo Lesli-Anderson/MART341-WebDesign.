@@ -77,3 +77,95 @@ img {
 #img-link:hover{
     border: 50px solid #0ba516a5;
 }
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #333;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+.site-name {
+    color: #0ba516a5;
+    margin: 1em .2em;
+    min-width: 6em;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    letter-spacing: 0.3em;
+    float: left;
+    font-weight: bold;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #0ba516a5;
+    color: #333;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: #0ba516a5;
+}
+
+
+.dropdown:hover{
+    border-radius: 1em 1em 0em 0em;
+}
+
+#foundation:hover{
+    border-radius: 0em 0em 1em 1em;
+}
+
+/* footer */
+footer {
+    width: 100%;
+    background-color: #0ba516a5;
+    height: 3em;
+    text-align: center;
+    font-family: Quicksand;
+    padding-top: 1em;
+}
+
+#footer-link {
+    color: #333;
+    font-weight: bold;
+}
