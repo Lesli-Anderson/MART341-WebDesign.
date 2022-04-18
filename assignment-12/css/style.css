@@ -25,7 +25,7 @@ h1{
     background-color: #0d59fd;
     color: #333;
     text-indent: 11em;
-    font-family: Yellowtial;
+    font-family: Yellowtail;
 }
 
 .subtitle{
@@ -171,13 +171,16 @@ header {
     border-radius: 0em 0em 1em 1em;
 }
 
+
+
+
 /* footer */
 footer {
     width: 100%;
     background-color: #0ba516a5;
     height: 3em;
     text-align: center;
-    font-family: Quicksand;
+    font-family: Yellowtail;
     padding-top: 1em;
 }
 
@@ -185,3 +188,4 @@ footer {
     color: #333;
     font-weight: bold;
 }
+
