@@ -77,6 +77,22 @@ img {
 #img-link:hover{
     border: 50px solid #0ba516a5;
 }
+
+
+/* Menu */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: black; 
+    margin-top: 0;
+    height: 4em;
+    width: 99%;
+    text-align: right;
+    font-family:Barlow;
+    padding-right: 3em;
+}
+
+
 /* Set the layout of the menu: */
 .menu-item {
     display: inline-block;
