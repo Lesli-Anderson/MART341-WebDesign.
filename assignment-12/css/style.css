@@ -1,0 +1,79 @@
+#header{
+    background-image: url("../images/edge.png");
+}
+
+h1{
+    color: #333;
+    font-family: Barlow;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+}
+
+#title:hover{
+    letter-spacing: 1em;
+    font-weight: 800;
+    color: #0ba516a5;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: black;
+    color: black;
+}
+
+.titleBorder:hover{
+    background-color: #0d59fd;
+    color: #333;
+    text-indent: 11em;
+    font-family: Yellowtial;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 50px;
+    margin: 25px;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: #333;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 570px;
+    font-family: Yellowtail;
+}
+
+.content-paragraph::first-line{
+    font-size: 30px;
+    font-family: Barlow;
+    line-height: 40px;
+}
+
+.poem-link{
+    text-decoration: none;
+    color: #0ba516a5;
+}
+.poem-link:hover{
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.poem-link:visited{
+    color: #8a60ff;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 150px;
+}
+
+img {
+    border: 20px solid #0ba516a5;
+}
+
+#img-link:hover{
+    border: 50px solid #0ba516a5;
+}
