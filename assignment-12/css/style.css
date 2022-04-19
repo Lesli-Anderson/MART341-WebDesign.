@@ -18,7 +18,7 @@ h1{
 .titleBorder{
     height: 200px;
     background-color: black;
-    color: white;
+    color: black;
 }
 
 .titleBorder:hover{
