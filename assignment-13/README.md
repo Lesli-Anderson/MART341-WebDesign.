@@ -10,9 +10,9 @@ Add Screenshot
 TO DO - Next Steps:
 
 link pages to stylesheets,
-add gallery images
-replace current gallery images and build page
-correct code for logo
-finish updating home page and make others follow style and theme
-make sure each page is responsive
-update and change about page
+add gallery images,
+replace current gallery images and build page,
+correct code for logo,
+finish updating home page and make others follow style and theme,
+make sure each page is responsive,
+update and change about page,
