@@ -7,8 +7,9 @@ A responsive web design plays a critical part in the way your website appears on
 Add Screenshot
 ![My Screenshot](./images/AndersonScreenshot13.png)
 
-TO DO - Next Steps
-link pages to stylesheets
+TO DO - Next Steps:
+
+link pages to stylesheets,
 add gallery images
 replace current gallery images and build page
 correct code for logo
