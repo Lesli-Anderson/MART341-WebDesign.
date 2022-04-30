@@ -1,44 +1,14 @@
-body {
-  background-color: #8107fc;
-  background-image: linear-gradient(315deg, #008db4 0%, rgb(109, 26, 253) 64%);
-  text-align: center;
-  font-family: "Barlow, Yellowtail";
-}
-div {
-  background-color: white;
-  width: 600px;
-  margin: auto;
-  padding: 30px;
-  border: 1px solid black;
-}
-nav {
-  background-color: rgb(109, 26, 253);
-  color: white;
-  padding: 1%;
-  text-align: right;
-  border: 5px white solid;
-  height: auto;
-}
-
-a {
-  color: white;
-  font-size: 25px;
-}
-img {
-  border-radius: 8px;
-  width: 75%;
-}
-
-li {
-  font-size: medium;
-  text-align: left;
-}
 #header{
-  background-image: url("../images/edge.png");
+  padding: 60px;
+  text-align: center;
+  background: #e6035d;
+  color: rgb(8, 116, 128);
+  font-family: Yellowtail;
+  font-size: 35px;
 }
 
 h1{
-  color: #333;
+  color: rgb(0, 0, 0);
   font-family: Barlow;
   font-size: 100px;
   letter-spacing: 0.3em;
@@ -47,7 +17,7 @@ h1{
 #title:hover{
   letter-spacing: 1em;
   font-weight: 800;
-  color: #008db4;
+  color: #43008aa5;
 }
 
 .titleBorder{
@@ -57,8 +27,8 @@ h1{
 }
 
 .titleBorder:hover{
-  background-color: #008db4;
-  color: #333;
+  background-color: #e6035d;
+  color: rgb(0, 0, 0);
   text-indent: 11em;
   font-family: Yellowtail;
 }
@@ -71,7 +41,7 @@ h1{
 
 .content-paragraph{
   margin: auto;
-  color: #333;
+  color: rgb(0, 0, 0);
   font-size: 20px;
   line-height: 26px;
   max-width: 570px;
@@ -80,7 +50,7 @@ h1{
 
 .content-paragraph::first-line{
   font-size: 30px;
-  font-family: Barlow;
+  font-family: Barlow;S
   line-height: 40px;
 }
 /*
@@ -96,7 +66,7 @@ h1{
 .poem-link:visited{
   color: #8a60ff;
 }
-*/
+*/S
 .image {
   display: block;
   margin-left: auto;
@@ -106,11 +76,14 @@ h1{
 }
 
 img {
-  border: 8px solid #008db4;
+  border: 10px solid #43008aa5;
+  max-width: 500px;
+  height: auto;
+  border-radius: 8px;
 }
 
 #img-link:hover{
-  border: 50px solid #0ba516a5;
+  border: 50px solid #43008aa5;
 }
 
 
@@ -134,20 +107,17 @@ header {
   margin: 1em .2em;
   min-width: 6em;
   text-align: center;
-  background-color: #333;
+  background-color: rgb(0, 0, 0);
   padding: 0.5em 1em;
   border-radius: 1em;
 }
 
-.site-name {
-  color: #6f00ff;
+.site-logo {
+
   margin: 1em .2em;
-  min-width: 6em;
   padding: 0.5em 1em;
-  border-radius: 1em;
-  letter-spacing: 0.3em;
   float: left;
-  font-weight: bold;
+
 }
 
 /* Style the links: */
@@ -158,7 +128,7 @@ header {
 
 .menu-item:hover {
   background-color: #0ba516a5;
-  color: #333;
+  color: rgb(0, 0, 0);
 }
 
 /* Add a dropdown feature: */
@@ -194,7 +164,7 @@ header {
 
 .dropdown-item:hover, .dropdown-item:hover a {
   color: white;
-  background-color: #0ba516a5;
+  background-color: #43008aa5;
 }
 
 
@@ -212,7 +182,7 @@ header {
 /* footer */
 footer {
   width: 100%;
-  background-color: #0ba516a5;
+  background-color: #43008aa5;
   height: 3em;
   text-align: center;
   font-family: Yellowtail;
@@ -220,6 +190,23 @@ footer {
 }
 
 #footer-link {
-  color: #333;
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
+body{
+ 
+    text-align: center;
+    font-family: "Barlow, Yellowtail";
+  }
+  
+   
+li {
+  font-size: medium;
+  text-align: left;
+}
+div {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  padding: 1em;
+  border: 1px solid black;
