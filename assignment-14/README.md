@@ -5,7 +5,7 @@ Optional: What challenges did you face this week, and how did you overcome them?
 Add Screenshot
 ![My Screenshot](./images/AndersonScreenshot14.png)
 
-I decided to recreate my site. I wasn't liking where it was going and looked to W3.CSS Templates for some styling assistance. From that point I was able to manipulate what I wanted the site to look more like.
+I decided to recreate my site. I wasn't liking where it was going. I feel that partly was because I was pulling code from different assignments and I was getting my code mixed up.
 
 TO DO - Next Steps:
 
