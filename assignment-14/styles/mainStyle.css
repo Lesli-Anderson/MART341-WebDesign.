@@ -10,6 +10,7 @@
   justify-content: center;
   align-items: center;
   background-color: rgba(74, 0, 131, 0.5);
+  height: 40px;
   position: sticky;
   top: 0;
 }
@@ -39,7 +40,7 @@
   display: flex;
   flex-direction: column;
   background-color: rgba(0, 0, 0, 0.5);
-  height: 840px;
+  height: 500px;
   justify-content: center;
   align-items: center;
   color: white;
@@ -50,7 +51,7 @@
   position: absolute;
   top: 0;
   right: 0;
-  background-image: url("images/abstract.png") no-repeat center center/cover;
+  background-image: url("LAndersonWeb.jpg") no-repeat center center/cover;
   height: 900px;
   width: 100%;
   z-index: -1;
@@ -85,5 +86,6 @@ transition: .6s ease;
     color: black;
     box-shadow: 0 0 10px white, 0 0 15px white;
     font-weight: bold;
-
 }
+
+/* About Section*/
