@@ -47,12 +47,15 @@
   
 }
 #home::before {
-  constant: "";
+  content: "";
   position: absolute;
   top: 0;
   right: 0;
-  background-image: url("LAndersonWeb.jpg") no-repeat center center/cover;
-  height: 900px;
+  background-image: url('../images/abstract.png');
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-size: center/cover;
+  height: 540px;
   width: 100%;
   z-index: -1;
   opacity: .8;
@@ -89,3 +92,17 @@ transition: .6s ease;
 }
 
 /* About Section*/
+#about{
+    display:flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+
+}
+#pic{
+    display: flex;
+}
+#pic img{
+    width: 575px;
+    height: 400px;
+}
