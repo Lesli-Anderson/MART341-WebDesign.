@@ -11,8 +11,6 @@
     <link rel="stylesheet" type="text/css" href="./styles/mainStyle.css"/>
   </head>
 
-</head>
-
 <body>
     <nav class="navbar">
         <ul>
@@ -23,63 +21,17 @@
             <li><a href="contact.html">Contact Me</a></li>
         </ul>
     </nav>
-
-      <br />
-
-      <ul style="display: inline">
-        <li style="display: inline">
-          <a href="index.html">Home</a>
-        </li>
-        &vert;
-        <li style="display: inline">
-          <a href="about.html">About</a>
-        </li>
-      </ul>
-    </nav>
-
     <br />
     <br />
 
-    <div>
-      <h1>Contact Me</h1>
-
-      <hr />
-
-      <br />
-
-      <form method="POST" action="index.html">
-        <label for="name"> Name </label>
-
-        <input type="text" id="name" placeholder="Enter your name" autofocus />
-
-        <br />
-        <br />
-
-        <label for="email"> Email </label>
-        <input type="text" id="email" />
-
-        <br />
-        <br />
-        <br />
-
-        <label for="comments"> Do you have more questions? Message me. </label>
-
-        <br />
-        <br />
-
-        <textarea name="comments" id="comments" rows="10" cols="92"></textarea>
-
-        <br />
-        <br />
-
-        <input type="submit" name="submit" value="Submit" />
-      </form>
-    </div>
-    <div style="margin:auto; padding:10px">
-        <h1>Video</h1>
-        <span style="padding:50px">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ww6hdxoO_KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </span>
-</div>
+    
+    <h1 class="headings">CONTACT</h1>
+    <form action="form" class="form">
+        <input type="text" name="name" class="input" placeholder="Enter Your Name">
+        <input type="email" name="email" class="input" placeholder="Enter Your Email">
+        <textarea name="msg" id="msg" cols="30" rows="10" placeholder="Enter Your Message"></textarea>
+        <input type="submit" value="SEND" id=" send">
+    </form>
+    
 </body>
 </html>
