@@ -144,6 +144,10 @@
 }
 .row {
   display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+
 }
 .box {
   display: flex;
@@ -165,9 +169,13 @@
   color: white;
   border: none;
   box-shadow: 0 0 20px rgb(89, 143, 153);
-  
-}
 
+}
+.box img{
+    width: 80px;
+    height: 80px;
+    
+}
 
 
 
