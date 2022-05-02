@@ -1,6 +1,8 @@
 How did your user testing sessions go?
+Due to my schedule I have been unable to complete my site and conduct the usability tests at this time. I plan on having these conducted and changes made prior to the next submission date for the final. I apologize for the incomplete work.
 
 What changes (if any) did you make to your website based on the user feedback you received?
+I will include the findings and adjustments made in the final submission.
 
 Optional: What challenges did you face this week, and how did you overcome them?
 
