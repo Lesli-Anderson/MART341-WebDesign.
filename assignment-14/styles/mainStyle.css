@@ -98,12 +98,18 @@ html{
 }
 .btn:hover {
   cursor: pointer;
-  background-color: white;
+  background-color: rgba(74, 0, 131, 0.5);
   color: black;
   box-shadow: 0 0 10px white, 0 0 15px white;
   font-weight: bold;
-}
+  font-family: barlow;
 
+}
+.btn:active{
+  background-color: rgb(89, 143, 153);
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 /* About Section*/
 #about {
   display: flex;
@@ -230,7 +236,13 @@ html{
     cursor: pointer;
     box-shadow: 0 0 10px white;
 }
-
+/*footer*/
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgba(74, 0, 131, 0.5);
+  color: white;
+}
 /* Pulled from past site*/
 a {
   color: white;
