@@ -172,14 +172,32 @@
 
 }
 .box img{
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    padding: 10px;
     
 }
+/* Contact Section*/
+#contact{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: rgba(74, 0, 131, 0.9);
+    color: white;
+    padding: 20px;
 
-
-
-
+}
+.form{
+    display: flex;
+flex-direction: column;
+box-sizing: border-box;
+align-items: center;
+margin: 20px 0px;
+}
+.input{
+    padding: 12px;
+}
 
 
 /* Pulled from past site*/
