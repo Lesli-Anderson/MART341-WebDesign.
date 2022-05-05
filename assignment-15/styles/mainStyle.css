@@ -254,6 +254,11 @@ html{
     cursor: pointer;
     box-shadow: 0 0 10px white;
 }
+#html{
+  text-align:Center;
+  padding: 3px;
+  color: white;
+}
 /*footer*/
 footer {
   text-align: center;
@@ -283,4 +288,8 @@ text-align: center;
 body {
   background-color: rgb(89, 143, 153);
   font-family: yellowtail;
+}
+H5{
+  text-align: center;
+
 }
