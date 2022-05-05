@@ -164,7 +164,7 @@ html{
   box-sizing: border-box;
 }
 .gallery img {
-  max-width: 600px;
+  max-width: 900px;
   max-height: 240px;
   margin: 10px;
 }
